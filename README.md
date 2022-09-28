@@ -22,10 +22,8 @@ In this project, I created an Active Directory Home Lab environment throught the
 
 <p align="center">
 Creating the VM (Server and Client): <br/>
-![Capture](https://user-images.githubusercontent.com/114441952/192765801-2c39ddea-4bd0-483f-9c87-453b57d910a7.PNG)
+![Capture](https://user-images.githubusercontent.com/114441952/192768143-8177a0c7-3b8e-4774-a890-1e6454b090cd.PNG)
 
- 
-<br />
 
 </p>
 
