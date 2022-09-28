@@ -18,7 +18,7 @@ In this project, I created an Active Directory Home Lab environment throught the
 - Microsoft Server
 - VirtualBox</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
 Creating the VM (Server and Client): <br>
