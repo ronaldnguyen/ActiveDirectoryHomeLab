@@ -2,7 +2,8 @@
 
 
 <h2>Description</h2>
-In this project, I created an Active Directory Home Lab environment throught the use of Virtual Machines. Using Orcale VM VirtualBox, I created 2 VMs to host the Microsoft Server and to configure my Active Directory Network as well as one VM for an example Microsoft client. After setting up the network environment I ran a Powershell scrip to generate over 1000 users and logged into one of these users on my client VM, giving myself user access to resources on the network. This lab can simulate a business onboarding process which can automatically create a unique user access and give permitted access to resources to the business domain upon hiring.
+In this project, I created an Active Directory Home Lab environment through the use of Virtual Machines. I created one Virtual Machine to install Active Directory and to create a domain. Then I setup a NAT/RAS so clients on the private network can access the Internet through the domain controller. Then I setup a DHCP server so new users will automatically be leased an IP address when creating a Windows 10 machine. Then ran a Powershell scipt to create 1000 users in Active Directory. I created another Virtual Machine to install Windows 10, connected this machine to the domain, logged into one of the generated user accounts to test if domain controlled properly leased an IP address so that the clients can access the Internet. This project can simulate a corporate network where new hires are given domain credentials to login into a corporate computer. Another scenario that this lab can be applied is for students that given a unique student ID to login into the school's computer, accessing the domain server. 
+
 <br />
 
 
